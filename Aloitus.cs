@@ -17,7 +17,7 @@ namespace Tietokilpailu3
         private readonly string aihe2 = "tekniikka.txt";
         private string nimi ="";
       
-        private readonly Kysymys kysymys = new Kysymys();  //luodaan Kysymys-tyyppinen olio kysymys
+        private readonly Kysymys kysymys = new Kysymys();  //luodaan Kysymys-tyyppinen olio kysymys/
         private readonly Pisteet pisteet = new Pisteet();   //luodaan Pisteet-tyyppinen olio pisteet
         private readonly Luontopisteet luontopisteet = new Luontopisteet();
         private readonly Tekniikkapisteet tekniikkapisteet = new Tekniikkapisteet();

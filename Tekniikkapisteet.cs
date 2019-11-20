@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-/* Perii pisteet-luokan. Antaa palautteen ja muodostaa tallennettavan merkkijonon */
+/* Perii pisteet-luokan. Antaa palautteen ja muodostaa tallennettavan merkkijonon *///
 namespace Tietokilpailu3
 {
     class Tekniikkapisteet : Pisteet

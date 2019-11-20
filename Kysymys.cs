@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 /*Kysymykset vaihtoehtoineen ja vastauksineen haetaan tiedostosta, sekoitetaan, pilkotaan ja kysytään.
- Luokkaa paremmin kuvaava nimi voisi olla kysymyssetti tai kysymyskierros*/
+ Luokkaa paremmin kuvaava nimi voisi olla kysymyssetti tai kysymyskierros*///
 namespace Tietokilpailu3
 {
     class Kysymys

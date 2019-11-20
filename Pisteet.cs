@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
-/*kilpailijan pisteitä käsitellään */
+/*kilpailijan pisteitä käsitellään *///
 namespace Tietokilpailu3
 {
     public class Pisteet : IUtelu

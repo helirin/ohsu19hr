@@ -1,0 +1,10 @@
+1; Montako kerrosta on OSI-mallissa?; A) 6 B) 5 C) 7 D) 4;C
+2; Mikä on DNS-palvelin?; A) Web-palvelin B) Nimipalvelin C) tietokantapalvelin D) Pilvipalvelin;B
+3; Mikä näistä on langaton lähiverkko?; A) VLAN B) WPAN C) WLAN D) LAN;C
+4; Mikä on http -palvelun porttinumero?; A) 21 B) 40 C) 100 D) 80;D
+5; Mikä näistä ei ole NoSQL-tietokanta?; A) PostgreSQL B) MongoDB C) Cassandra D) Apache CouchDB;A
+6; Mihin ARP-protokolla liittyy?; A) DHCP-palvelimeen B) MAC-osoitteisiin C) Yleiskaapelointiin D) WiFi-verkkoon;B
+7; Mikä näistä ei ole relaatiotietokanta; A) MySQL B) PostgreSQL C) MariaDB D) MongoDB;D
+8; Mikä näistä ei ole ohjelmointikieli?; A) PHP B) JPG C) Perl D) C#;B
+9; Mitä seuraavista ohjelmista käytetään videon editointiin; A) Premiere B) Voyager C) Illustrator D) Canva ;A
+10; Mikä seuraavista ei kuulu TCP/IP malliin;  A) Verkkokerros B) Kuljetuskerros C) Pohjakerros D) Sovelluskerros;C

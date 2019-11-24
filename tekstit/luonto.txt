@@ -1,0 +1,10 @@
+1; Mikä eläin on Caracal caracal?; A) Seepra B) Lumileoparbi C) Aavikkoilves D) Valkogaselli;C
+2; Mikä joki virtaa mm. Kittilässä?; A) Siikajoki B) Ounasjoki C) Lemmenjoki D) Oulankajoki;B
+3; Mihin jokeen kuuluu Kiutaköngäs?; A) Oulankajokeen B) Ounasjokeen C) Muonionjokeen D) Kyrönjokeen;A
+4; Mikä on Suomen pisin joki?; A) Kymijoki B) Iijoki C) Kemijoki D) Ounasjoki;C
+5; Missä sijaitsee Rokuan kansallispuisto?; A) Uusimaa B) Pohjois-Pohjanmaa C) Lappi D) Varsinais-Suomi;B
+6; Missä on Riisitunturi?; A) Posiolla B) Kuusamossa C) Savukoskella D) Sallassa;A
+7; Mikä kasvi on Acer platanoides?; A) Rauduskoivu B) Metsävaahtera C) Metsähaapa D) Harmaaleppä;B
+8; Mikä seuravista on punaketun latinankielinen nimi?; A) Vulpes vulpes B) Lynx lynx C) Canis lupus D) Ursus arctos;A
+9; Mikä eläin on Lepus timidus?; A) Orava B) Metsähiiri C) Metsäjänis D) Peltomyyrä;C
+10; Mihin heimoon kuuluu voikukka?;  A) Leinikkikasveihin B) Parsakasveihin C) Ristikukkaiskasveihin D) Asterikasveihin;D

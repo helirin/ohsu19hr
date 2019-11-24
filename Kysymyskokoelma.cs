@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
-/*Dynaaminen oliokokoelma, jolle ei toistaiseksi ole käyttöä. Testi*/
+/*Dynaaminen oliokokoelma, jolle ei toistaiseksi ole käyttöä.*/
 namespace Tietokilpailu3
 {
     class Kysymyskokoelma

@@ -26,3 +26,5 @@ Testaussuunnitelma
 5.	Testaa myös vääränlaisten syötteiden antaminen 
 6.	Testaa pisteet (3) valinta
 7.	Testaa lopetus (4) valinta
+
+Testaussuunnitelma vielä kesken

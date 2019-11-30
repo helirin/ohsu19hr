@@ -1,0 +1,25 @@
+﻿Käyttöohje
+
+Harjoitustyö on suppea tietokilpailu, jonka kysymykset on syötetty etukäteen tiedostoon. 
+Aluksi ohjelma tulostaa käyttäjälle ohjeet, kysyy käyttäjän nimeä ja lukee sen. 
+Sitten ohjelma tulostaa valintavaihtoehdot. 
+Vaihtoehdot ovat: 1 luonto, 2 tekniikka, 3 pisteet ja 4 lopetus. 
+Jos käyttäjä valitsee 1 tai 2, häneltä kysytään max. 10 kysymystä. Kysely päättyy, kun käyttäjä vastaa väärin. 
+Sen jälkeen käyttäjälle ilmoitetaan saadut pisteet ja ne tallennetaan tiedostoon. Ohjelma päättyy enterin painalluksella.
+ 
+Kun valitsee aloitusvalikosta vaihtoehdon 3, näytölle tulostuu kaikkien kilpailijoiden pisteet. 
+Kyselyn jälkeen aloitusvalikkoon ei tässä versiossa palata. 
+ 
+Tietokilpailun kysymykset on tallennettu tiedostoon, jonka yksi rivi sisältää järjestysnumeron, kysymyksen, vaihtoehdot ja oikean vastauksen. 
+Nämä on erotettu puolipisteellä. Tiedosto luonto.txt sisältää luonto-aiheisia kysymyksiä ja tekniikka.txt tekniikka-aiheisia kysymyksiä. 
+Tulos.txt –tiedostoon tallennetaan käyttäjän nimi, saadut pisteet, aihe ja päivämäärä. Nämä tiedostot sijaitsevat bin-kansiossa. 
+
+Testaussuunnitelma
+
+1. 	Kun testaat, siirrä tekstit-kansiosta tiedostot luonto.txt, tekniikka.txt ja tulos.txt bin/Debug –kansioon. 
+2. 	Käynnistä ohjelma ja testaa valikon vaihtoehtoja yksi kerrallaan. Toimivatko ne
+3.	Testaa luontokysymykset (1) ja tekniikkakysymykset (2) siten, että vastaat jossain vaiheessa väärin
+4.	Testaa kysymykset siten, että vastaat kaikkiin oikein. Vastaukset voi katsoa tiedostosta
+5.	Testaa myös vääränlaisten syötteiden antaminen 
+6.	Testaa pisteet (3) valinta
+7.	Testaa lopetus (4) valinta

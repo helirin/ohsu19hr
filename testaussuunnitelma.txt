@@ -11,7 +11,8 @@ Kun valitsee aloitusvalikosta vaihtoehdon 3, näytölle tulostuu kaikkien kilpai
 Kyselyn jälkeen aloitusvalikkoon ei tässä versiossa palata. 
  
 Tietokilpailun kysymykset on tallennettu tiedostoon, jonka yksi rivi sisältää järjestysnumeron, kysymyksen, vaihtoehdot 
-ja oikean vastauksen. Nämä on erotettu puolipisteellä. Tiedosto luonto.txt sisältää luonto-aiheisia kysymyksiä ja tekniikka.txt tekniikka-aiheisia kysymyksiä.
+ja oikean vastauksen. Nämä on erotettu puolipisteellä. 
+Tiedosto luonto.txt sisältää luonto-aiheisia kysymyksiä ja tekniikka.txt tekniikka-aiheisia kysymyksiä.
 
 Tulos.txt –tiedostoon tallennetaan käyttäjän nimi, saadut pisteet, aihe ja päivämäärä. 
 Nämä tiedostot sijaitsevat bin-kansiossa. 

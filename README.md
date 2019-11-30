@@ -2,4 +2,4 @@
 Ohjelmistotuotannon kurssia varten. 
 Repositoryssa oleva ohjelma on tehty olio-ohjelmointi kurssia varten. 
 Palautetussa ohjelmassa tekstitiedostot sijaitsevat bin/debug -kansiossa. 
-Ne kansiot eivät siirtyneet, joten tässä tekstitiedostot ovat tekstit-kansiossa, mutta sieltä ne eivät toimi, vaan ne pitää siirtää. Huom. tämä ohjelma on keskeneräinen
+Ne kansiot eivät siirtyneet, joten tässä tekstitiedostot ovat tekstit-kansiossa. Sieltä ne eivät toimi, vaan ne pitää siirtää. Huom. tämä ohjelma on keskeneräinen

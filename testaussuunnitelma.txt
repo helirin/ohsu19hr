@@ -17,7 +17,8 @@ Tiedosto luonto.txt sisältää luonto-aiheisia kysymyksiä ja tekniikka.txt tek
 Tulos.txt –tiedostoon tallennetaan käyttäjän nimi, saadut pisteet, aihe ja päivämäärä. 
 Nämä tiedostot sijaitsevat bin-kansiossa. 
 
-Ohjelmointikielenä on C#. Program.cs sisältää pääohjelman, josta kutsutaan Aloitus.cs -luokkaa, jossa on ns. käyttöliittymä. Kysymysten käsittelyn hoitaa Kysymys.cs -luokka. Pisteet tallennetaan Pisteet.cs -luokassa ja sen aliluokissa ilmoitetaan tulos. Kysymyskokoelma.cs -luokkaa ei käytetä mihinkään.
+Ohjelmointikielenä on C#. Program.cs sisältää pääohjelman, josta kutsutaan Aloitus.cs -luokkaa, jossa on ns. käyttöliittymä. 
+Kysymysten käsittelyn hoitaa Kysymys.cs -luokka. Pisteet tallennetaan Pisteet.cs -luokassa ja sen aliluokissa ilmoitetaan tulos. Kysymyskokoelma.cs -luokkaa ei käytetä mihinkään.
 
 Testaussuunnitelma
 

@@ -31,4 +31,4 @@ Testaussuunnitelma
 6.	Testaa pisteet (3) valinta
 7.	Testaa lopetus (4) valinta
 
-Parempi testaussuunnitelma tulee kurssin edetessä
+

@@ -22,7 +22,9 @@ namespace Tietokilpailu3
             aloitus1.AnnaNimi();
             //valinta
             aloitus1.Valitse();
-            
+         
+            //tietokilpalu toimii aloitusvalikon kautta
+     
             Console.ReadLine();
         }
     }

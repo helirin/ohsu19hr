@@ -22,8 +22,6 @@ namespace Tietokilpailu3
             aloitus1.AnnaNimi();
             //valinta
             aloitus1.Valitse();
-
-            //Hyvältä näyttää. Tähän koodille jatkoa, niin saadaan ohjelmaa valinnan jälkeen eteenpäin.
             
             Console.ReadLine();
         }
